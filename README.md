@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1038533482.svg)](https://doi.org/10.5281/zenodo.16893255)
+
 # NeWM_PostProc
 Repository for Global Forecasting of Tropical Cyclone Intensity Using Neural Weather Models
 This repository is organized as follows:
