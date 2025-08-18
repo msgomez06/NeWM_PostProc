@@ -18,27 +18,27 @@ _Contains scripts for interfacing with IBTrACS, ERA5, and neural weather model o
 
 #### 02_Data_Processing/
 _Includes scripts for preprocessing tracks and associated data._
-- track_preprocessing_reanalysis.py
-- track_preprocessing_newms.py
-- data_preprocessing.py
+> track_preprocessing_reanalysis.py <br>
+> track_preprocessing_newms.py <br>
+> data_preprocessing.py <br>
 
 #### 03_Models/
 _Includes the scripts where model architectures are defined._
-- baselines.py
+> baselines.py <br>
 
 #### 04_Training_Scripts/
 Contains helper functions and utility scripts.
-- convolutional_model_runner.py
-- linnear_model_runner.py
+> convolutional_model_runner.py <br>
+> linnear_model_runner.py <br>
 
 #### 05_Analysis_Scripts/
 Scripts for analyzing data and model results.
-- case_studies.py
-- case_study_animation.py
-- dropout_curves.py
-- histogram_maker.py
-- model_evaluation.py
-- tex_pairs.py
-- track_displacement_analysis.py
+> case_studies.py <br>
+> case_study_animation.py <br>
+> dropout_curves.py <br>
+> histogram_maker.py <br>
+> model_evaluation.py <br>
+> tex_pairs.py <br>
+> track_displacement_analysis.py <br>
 
 Each script is modular and documented to facilitate easy understanding and integration into larger projects.
